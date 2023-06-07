@@ -29,5 +29,5 @@ Bu, XOX (Tic-Tac-Toe) oyununun basit bir uygulamasıdır. Oyun, kullanıcı ve t
 
 ![Ekran Resmi 2023-06-07 08 28 03](https://github.com/SeydaBalci/XOXUIGameApp/assets/62032918/83362808-5688-4430-94da-595d0f73e278)
 
-![Ekran Resmi 2023-06-07 08 27 39](https://github.com/SeydaBalci/XOXUIGameApp/assets/62032918/bc36b467-ae5d-4dcf-8f4c-3e95e6e398f6)
+![Ekran Resmi 2023-06-07 08 28 15](https://github.com/SeydaBalci/XOXUIGameApp/assets/62032918/8e2e73d7-c786-44f2-a1b9-21765dbd4efa)
 
